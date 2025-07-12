@@ -1,0 +1,7 @@
+Hello how are you?
+I am good
+Ola is my name
+Welcome to this sectionAppend operation taking place!
+First line 
+Second line 
+Third line
